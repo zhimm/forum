@@ -6,7 +6,7 @@
       <hr class="my-4">
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse consequatur error iure fugit. Aut, rem?</p>
       <p class="lead">
-      <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+      <a class="btn btn-primary btn-lg" href="#" role="button">LOGIN</a>
       </p>
 </div>
   </div>
