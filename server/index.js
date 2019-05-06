@@ -1,6 +1,6 @@
 const express = require('express')
 
-const {notFound , errorHandler} = require('./errorConfig')
+const {notFound , errorHandler} = require('./errorConfig/index')
 
 const app = express()
 
