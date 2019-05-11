@@ -1,8 +1,8 @@
 <template>
   <div class="home">
     <div class="jumbotron">
-      <h1 class="display-3">WELCOME TO FORUM</h1>
-      <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore vero, sequi alias voluptatibus harum recusandae at voluptate ea fugit quasi?</p>
+      <h1 class="display-3">Welcome To </h1>
+      <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, aliquam.</p>
       <hr class="my-4">
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse consequatur error iure fugit. Aut, rem?</p>
       <p class="lead">
